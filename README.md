@@ -5,14 +5,7 @@ Digital rain in x86_64 / aarch64 Linux assembly with multi-arch scratch image, ~
 ## The Matrix has you
 
 ```sh
-docker run warachet/hello-neo
-
-```
-
-Or
-
-```sh
-docker run --rm -it ghcr.io/zdk/matrix:wakeup-neo
+docker run --rm -it ghcr.io/zdk/hello-world
 ```
 
 ## Follow the white rabbit
