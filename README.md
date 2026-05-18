@@ -29,7 +29,7 @@ docker run --rm -it warachet/hello-world:amd64
 
 ## Follow the white rabbit
 
-![demo](demo.gif)
+![demo](docs/hello.gif)
 
 ## Knock, knock, Neo
 
